@@ -16,7 +16,27 @@ img {
   vertical-align: top;
 }
 
+header {
+  background-color: #007;
+  color: #fff;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 100; 
+}
 
+
+header h1 {
+  margin: 0;
+  font-size: 25px;
+  padding: 5px;
+  text-align: center;
+  font-family: 'Coming Soon', cursive;
+}
+
+.photo {
+  position: relative;
+}
 
 
 
